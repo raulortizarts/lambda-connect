@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://raulortizarts:reortidy1@lambda-connect-bxtyz.mongodb.net/test?retryWrites=true&w=majority"
+}
