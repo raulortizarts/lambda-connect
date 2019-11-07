@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://raulortizarts:reortidy1@lambda-connect-bxtyz.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://raulortizarts:reortidy1@lambda-connect-bxtyz.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secretToken"
 }
